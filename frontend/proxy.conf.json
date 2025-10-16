@@ -1,0 +1,4 @@
+{
+  "/auth": { "target": "http://localhost:3333", "secure": false, "changeOrigin": true },
+  "/tasks": { "target": "http://localhost:3333", "secure": false, "changeOrigin": true }
+}
